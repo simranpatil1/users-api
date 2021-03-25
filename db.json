@@ -1,0 +1,36 @@
+{
+    "schema": 
+[{
+    "name": "TDate",
+    "type": "date",
+    "format": "%Y-%m-%d %H:%M:%S.%L"
+},
+{
+    "name": "Condtn",
+    "type": "string"
+},
+{
+    "name": "CPSpeed",
+    "type": "number"
+},
+{
+    "name": "CPFOC",
+    "type": "number"
+},
+{
+    "name": "AvgSpeed",
+    "type": "number"
+},
+{
+    "name": "FuelCons",
+    "type": "number"
+},
+{
+    "name": "WindForce",
+    "type": "number"
+},
+{
+    "name": "DSS",
+    "type": "number"
+}]
+}
