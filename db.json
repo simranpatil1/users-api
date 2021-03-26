@@ -3,7 +3,7 @@
 [{
     "name": "TDate",
     "type": "date",
-    "format": "%Y-%m-%d'T'%H:%M:%S"
+    "format": "yyyy-MM-dd'T'HH:mm:ssZ"
 },
 {
     "name": "Condtn",
